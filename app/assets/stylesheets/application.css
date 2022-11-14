@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+#reponse {
+  background-color: #FFFFE1;
+}
+.border {
+  padding-left: 30px;
+  border-left: solid;
+}
